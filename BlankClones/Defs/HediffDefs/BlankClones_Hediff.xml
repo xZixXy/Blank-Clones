@@ -1,0 +1,10 @@
+<Defs>
+  <HediffDef>
+    <defName>BlankClones_StableEffect</defName>
+    <label>Blank clone stability</label>
+    <description>Provides passive stability effects for blank clones.</description>
+    <hediffClass>BlankClones.BlankClonesHediff</hediffClass>
+    <comps/>
+  </HediffDef>
+</Defs>
+

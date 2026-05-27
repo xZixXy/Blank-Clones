@@ -1,0 +1,10 @@
+<Defs>
+  <GeneDef>
+    <defName>BlankClones_ClonedMarker</defName>
+    <label>Blank clone marker</label>
+    <description>Marker gene for BlankClones. Not required if Zal.Cloning's Clone gene exists; used as fallback.</description>
+    <iconPath></iconPath>
+    <canGenerateInGeneSet>false</canGenerateInGeneSet>
+  </GeneDef>
+</Defs>
+

@@ -1,0 +1,16 @@
+<Defs>
+  <ThoughtDef>
+    <defName>BlankClones_PermaContent</defName>
+    <label>content</label>
+    <durationDays>9999</durationDays>
+    <stackLimit>1</stackLimit>
+    <stages>
+      <li>
+        <label>content</label>
+        <description>Feels permanently content and stable.</description>
+        <baseMoodEffect>300</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>
+
